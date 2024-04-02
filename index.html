@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>md to HTML</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="rootBox">
+        <div id="leftBox">
+            <div id="mdBox">
+                <div style="display: flex;justify-content: space-between;align-items: center;">
+                    <p>.md</p>
+                    <div style="display: flex;">
+                        <button id="copyPasteBtn" onclick="pasteFromClipboard('mdInput')">
+                            <img src="paste.png" style="width: 30px;">
+                        </button>
+                        <button id="copyPasteBtn" onclick="copyToClipboard('mdInput')">
+                            <img src="copy.png" style="width: 30px;">
+                        </button>
+                        <button id="refreshBtn" onclick="updateFields()">Convert</button>
+                    </div>
+                </div>  
+                <textarea id="mdInput" oninput="updateFields()"></textarea>
+            </div>
+            <div id="htmlBox">
+                <div style="display: flex;justify-content: space-between;align-items: center;">
+                    <p>.html</p>
+                    <button id="copyPasteBtn" onclick="copyToClipboard('htmlOutput')">
+                        <img src="copy.png" style="width: 30px;">
+                    </button>
+                </div> 
+                <textarea id="htmlOutput" readonly></textarea>
+            </div>
+        </div>
+        <div id="rightBox">
+            <div id="htmlPreview">
+                <div style="display: flex;justify-content: space-between;align-items: center;">
+                    <p>Preview - HTML</p>
+                    <br>
+                </div> 
+                <iframe id="previewFrame" src=""></iframe>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>`
