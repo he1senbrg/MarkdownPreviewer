@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 body {
     background-color: #010409;
     padding-right: 1%;
@@ -7,6 +8,8 @@ p,h3 {
     color: white;
     font-size: 20px;
     text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
 }
 
 #rootBox {
@@ -107,6 +110,8 @@ p,h3 {
     width: 100px;
     height: 35px;
     border: none;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
     background-color: #238636;
     color: #FFFFFD;
     border-radius: 6px;
