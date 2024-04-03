@@ -17,10 +17,7 @@ Link to deployed website : [Markdown Previewer](https://vishnutejase.github.io/M
 ![Desktop Image 2](screenshots/img_2.png)
 
 ### Mobile
-![Mobile Image 1](screenshots/imgR_1.png) 
-![Mobile Image 2](screenshots/imgR_1.png)
-
-<img src="screenshots/imgR_1.png" alt="Mobile Image 1" width="200"/> <img src="screenshots/imgR_2.png" alt="Mobile Image 2" width="200"/>
+<img src="screenshots/imgR_1.png" alt="Mobile Image 1" width="200"/>   <img src="screenshots/imgR_2.png" alt="Mobile Image 2" width="200"/>
 
 
 ## Miscellaneous
