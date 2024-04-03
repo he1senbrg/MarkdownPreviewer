@@ -1,3 +1,4 @@
+# Markdown Previewer
 ## Convert Github flavored markdown into HTML code 
 
 Initially, I believed I needed to construct the parser and compiler entirely from the ground up. Within just two days, I managed to accomplish around 95% of this task. However, I got stuck when I tried handling nested lists, which consumed more than a week of effort to achieve partial functionality.
