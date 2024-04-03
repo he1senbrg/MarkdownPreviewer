@@ -22,4 +22,4 @@ Link to deployed website : [Markdown Previewer](https://vishnutejase.github.io/M
 
 
 ## Miscellaneous
-Link to repository with my implementation of markdown parser and compiler : [mdPreviewer](https://github.com/vishnutejase/mdPreviewer)
+Link to the repository with my implementation of markdown compiler : [mdPreviewer](https://github.com/vishnutejase/mdPreviewer)
