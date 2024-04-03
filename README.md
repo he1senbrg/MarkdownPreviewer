@@ -12,11 +12,12 @@ Despite the challenge, I will work on refining the handling of nested lists as a
 Link to deployed website : [Markdown Previewer](https://vishnutejase.github.io/MarkdownPreviewer/)
 
 ## Screenshots 
-### Desktop
+- ### Desktop
 ![Desktop Image 1](screenshots/img_1.png)
 ![Desktop Image 2](screenshots/img_2.png)
 
-### Mobile
+
+- ### Mobile
 <img src="screenshots/imgR_1.png" alt="Mobile Image 1" width="400"/> <img src="screenshots/imgR_2.png" alt="Mobile Image 2" width="400"/>
 
 
