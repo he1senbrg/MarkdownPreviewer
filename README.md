@@ -10,3 +10,16 @@ Despite the challenge, I will work on refining the handling of nested lists as a
 
 
 Link to deployed website : [Markdown Previewer](https://vishnutejase.github.io/MarkdownPreviewer/)
+
+## Screenshots 
+### Desktop
+![Desktop Image 1](screenshots/img_1.png)
+![Desktop Image 2](screenshots/img_2.png)
+
+### Mobile
+![Mobile Image 1](screenshots/imgR_1.png)
+![Mobile Image 2](screenshots/imgR_1.png)
+
+
+## Miscellaneous
+Link to repository with my implementation of markdown parser and compiler : [Markdown Previewer](https://github.com/vishnutejase/mdPreviewer)
