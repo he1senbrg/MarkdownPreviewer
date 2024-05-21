@@ -20,7 +20,3 @@ Link to deployed website : [Markdown Previewer](https://vishnutejase.github.io/M
 
 - ### Mobile
 <img src="screenshots/imgR_1.png" alt="Mobile Image 1" width="400"/> <img src="screenshots/imgR_2.png" alt="Mobile Image 2" width="400"/>
-
-
-## Miscellaneous
-Link to the repository with my implementation of markdown compiler : [mdPreviewer](https://github.com/vishnutejase/mdPreviewer)
